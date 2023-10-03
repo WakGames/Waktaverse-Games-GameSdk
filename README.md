@@ -1,6 +1,3 @@
-# Waktaverse-Games-GameSdk
-Waktaverse Games의 팬게임 연동을 위한 언어 별 Client SDK
-
 # Waktaverse Games GameSDK 프로젝트
 [Waktaverse Games](https://waktaverse.games)의 팬게임 연동 기능을 보다 쉽게 사용하실 수 있도록 프로그램 언어별 클라이언트 모듈을 제공합니다.
 
