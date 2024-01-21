@@ -22,6 +22,9 @@
 ## Python
 준비 중입니다.
 
+## Godot Engine
+준비 중입니다.
+
 ## Node.js
 [WakGames/Waktaverse-Games-GameSdk-Nodejs](https://github.com/WakGames/Waktaverse-Games-GameSdk-Nodejs.git) by [Ayaan_](https://github.com/kms0219kms)
 
