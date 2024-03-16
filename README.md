@@ -12,9 +12,11 @@
 
 ## Game Maker (GMS)
 [WakGames/Waktaverse-Games-Demo-GMS](https://github.com/WakGames/Waktaverse-Games-Demo-GMS.git) by [DO_S](https://github.com/DOS0313)
+개발 중입니다.
 
 ## Unreal Engine
-준비 중입니다.
+[WakGames/Waktaverse-Games-Demo-UE](https://github.com/WakGames/Waktaverse-Games-Demo-UE) by [ReTeu](https://github.com/reteu5)
+개발 중입니다.
 
 ## Ren'py
 준비 중입니다.
@@ -23,10 +25,13 @@
 준비 중입니다.
 
 ## Godot Engine
-준비 중입니다.
+[WakGames/Waktaverse-Games-Demo-Godot](https://github.com/WakGames/Waktaverse-Games-Demo-Godot) by [Pulto](https://github.com/turtle85917)
+개발 중입니다.
 
 ## Node.js
 [WakGames/Waktaverse-Games-GameSdk-Nodejs](https://github.com/WakGames/Waktaverse-Games-GameSdk-Nodejs.git) by [Ayaan_](https://github.com/kms0219kms)
+개발 중입니다.
 
 ## Vanilla JS (for Web)
 [WakGames/Waktaverse-Games-GameSdk-VanillaJs](https://github.com/WakGames/Waktaverse-Games-GameSdk-VanillaJs.git) by [Ayaan_](https://github.com/kms0219kms)
+개발 중입니다.
