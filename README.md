@@ -13,12 +13,12 @@
 ## Game Maker (GMS)
 ~~[WakGames/Waktaverse-Games-Demo-GMS](https://github.com/WakGames/Waktaverse-Games-Demo-GMS.git) by [DO_S](https://github.com/DOS0313)~~
    
-개발 중입니다.
+개발 보류
 
 ## Unreal Engine
 [WakGames/Waktaverse-Games-Demo-UE](https://github.com/WakGames/Waktaverse-Games-Demo-UE) by [ReTeu](https://github.com/reteu5)   
    
-임시 개발 중단
+개발 중입니다.
 
 ## Ren'py
 준비 중입니다.
