@@ -8,17 +8,17 @@
 # 제공되는 언어별 REST API 클라이언트
 
 ## Unity
-[WakGames/Waktaverse-Games-Demo-Unity](https://github.com/WakGames/Waktaverse-Games-Demo-Unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI)
+[WakGames/Waktaverse-Games-Demo-Unity](https://github.com/WakGames/Waktaverse-Games-Demo-Unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917)
 
 ## Game Maker (GMS)
-[WakGames/Waktaverse-Games-Demo-GMS](https://github.com/WakGames/Waktaverse-Games-Demo-GMS.git) by [DO_S](https://github.com/DOS0313)   
+~~[WakGames/Waktaverse-Games-Demo-GMS](https://github.com/WakGames/Waktaverse-Games-Demo-GMS.git) by [DO_S](https://github.com/DOS0313)~~
    
 개발 중입니다.
 
 ## Unreal Engine
 [WakGames/Waktaverse-Games-Demo-UE](https://github.com/WakGames/Waktaverse-Games-Demo-UE) by [ReTeu](https://github.com/reteu5)   
    
-개발 중입니다.
+임시 개발 중단
 
 ## Ren'py
 준비 중입니다.
